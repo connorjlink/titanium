@@ -1,0 +1,4 @@
+function byte val main = () 
+{
+	return 0;
+}
